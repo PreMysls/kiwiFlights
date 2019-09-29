@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kiwiFirst</string>
+    <string name="noConnection">No internet connection.</string>
+</resources>
